@@ -108,24 +108,6 @@ python -m pip install customtkinter speedtest-cli
 
 ---
 
-## 🗺️ Yol Haritası (Fikirler)
-
-- [ ] Test geçmişini kaydetme (CSV/JSON)
-- [ ] Belirli bir sunucuyu manuel seçebilme
-- [ ] Sonuçları grafik/rapor olarak dışa aktarma
-- [ ] Sistem tepsisinden (system tray) hızlı test başlatma
-
----
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Bir hata bulursanız veya öneriniz varsa:
-
-1. Bu depoyu fork'layın
-2. Yeni bir branch oluşturun (`git checkout -b ozellik/yeni-ozellik`)
-3. Değişikliklerinizi commit'leyin (`git commit -m 'Yeni özellik eklendi'`)
-4. Branch'i push'layın (`git push origin ozellik/yeni-ozellik`)
-5. Bir Pull Request açın
 
 ---
 
