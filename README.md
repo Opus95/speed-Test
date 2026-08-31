@@ -9,8 +9,6 @@
 
 ## 📸 Özellikler
 
-- 🎨 **Modern koyu tema (Dark Mode)** arayüz
-- ⬇️ **İndirme** ve ⬆️ **Yükleme** hızlarını büyük, okunaklı kartlarda gösterir (Mbps)
 - 📶 **Ping (gecikme)** ve **sunucu/lokasyon** bilgisini gösterir
 - 🔄 Test aşamalarını takip eden **dinamik durum etiketi** ve **ilerleme çubuğu**
 - ⚡ Test sırasında arayüzün donmaması için **arka planda (thread) çalışan** ölçüm motoru
